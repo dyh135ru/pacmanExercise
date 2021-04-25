@@ -24,13 +24,13 @@ _First step_
 Clone the repository in your computer using Visual Studio Code.
 ```
 
-Second step_
+_Second step_
 
 ```
 Open the folder where the project is located.
 ```
 
-Third step_
+_Third step_
 
 ```
 Open index.html archive on a web browser.
