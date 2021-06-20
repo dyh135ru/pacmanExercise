@@ -16,8 +16,6 @@ Google Chrome and Visual Studio Code
 
 ### Installation 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
 _First step_
 
 ```
